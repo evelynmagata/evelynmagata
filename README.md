@@ -9,5 +9,3 @@ Meu nome é Evelyn Magata
 ### Você pode entrar em contato comigo 
 
 evelynellen.magata@gmail.com
-
-@evelynmagata
