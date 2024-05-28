@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :brown_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Evelyn Magata
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
